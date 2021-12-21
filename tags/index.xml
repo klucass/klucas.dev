@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kennedy Lucas</title>
+    <link>https://klucass.github.io/tags/</link>
+    <description>Recent content in Tags on Kennedy Lucas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://klucass.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Lista De Leitura 2021</title>
+      <link>https://klucass.github.io/lista-de-leitura-2021/</link>
+      <pubDate>Tue, 21 Dec 2021 19:43:21 -0300</pubDate>
+      
+      <guid>https://klucass.github.io/lista-de-leitura-2021/</guid>
+      <description>&lt;p&gt;Obrigado por ler meu primeiro post.&lt;/p&gt;
+&lt;p&gt;Esta é minha lista de leitura para este ano.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing Data-Intesive Applications (Marting Kleppmann)&lt;/li&gt;
+&lt;li&gt;Release It! (Michael T. Nygard)&lt;/li&gt;
+&lt;li&gt;The Pragmatic Programmer (Thomas D., Hunt A.)&lt;/li&gt;
+&lt;li&gt;Test-Driven Development with Python (Percival)&lt;/li&gt;
+&lt;li&gt;Data Science for Business (Provost, Fawcett)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>
