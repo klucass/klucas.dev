@@ -6,9 +6,22 @@
     <description>Recent content in Posts on Kennedy Lucas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Dec 2021 20:13:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Dec 2021 20:20:37 -0300</lastBuildDate>
     
 	<atom:link href="https://klucass.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Djanblog Vem Ai</title>
+      <link>https://klucass.github.io/djanblog-vem-ai/</link>
+      <pubDate>Tue, 21 Dec 2021 20:20:37 -0300</pubDate>
+      
+      <guid>https://klucass.github.io/djanblog-vem-ai/</guid>
+      <description>&lt;p&gt;Estou fazendo o &lt;a href=&#34;https://github.com/klucass/djanblog&#34;&gt;Djanblog&lt;/a&gt;, um backend baseado em Django para gerenciar um blog simples. Sua ideia é prover a administração de postagens e criação de endpoints para consulta dos conteúdos.&lt;/p&gt;
+&lt;p&gt;Minha intenção é usá-lo como camada de comunicação com a persistência.&lt;/p&gt;
+</description>
+    </item>
     
     
     
