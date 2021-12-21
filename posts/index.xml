@@ -6,9 +6,25 @@
     <description>Recent content in Posts on Kennedy Lucas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Dec 2021 19:43:21 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Dec 2021 20:13:59 -0300</lastBuildDate>
     
 	<atom:link href="https://klucass.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Blog Estatico</title>
+      <link>https://klucass.github.io/blog-estatico/</link>
+      <pubDate>Tue, 21 Dec 2021 20:13:59 -0300</pubDate>
+      
+      <guid>https://klucass.github.io/blog-estatico/</guid>
+      <description>&lt;p&gt;Por curiosidade decidi testar o Netlify. Ele tem uma proposta de otimizar o tempo de carregamento dos apps web basicamente servindo arquivos estáticos (gerados previamente no servidor), através de sua rede de CDN.&lt;/p&gt;
+&lt;p&gt;Porém, o que mais gostei foi sua esteira de deploy simplificada integrada com o github.&lt;/p&gt;
+&lt;p&gt;Então, se você olhar o &lt;a href=&#34;https://github.com/klucass/blog&#34;&gt; repositório&lt;/a&gt; deste blog, verá todos os arquivos.&lt;/p&gt;
+&lt;p&gt;Sim, é um &amp;ldquo;blog&amp;rdquo; estático. Sem base de dados, e sem nenhuma geração em back-end. Não que não seja possível gerar o blog com CMS. Mas, por enquanto, esta opção está bem viável, dado que eu praticamente nunca atualizo este site. E quem atualiza site pessoal pós instagram, não é mesmo?&lt;/p&gt;
+&lt;p&gt;PS: testar no futuro um CMS &lt;a href=&#34;https://blog.codecasts.com.br/headless-cms-o-que-s%C3%A3o-onde-vivem-o-que-comem-2fcf4210eec1&#34;&gt;Headless&lt;/a&gt; não está fora de cogitação.&lt;/p&gt;
+</description>
+    </item>
     
     
     
