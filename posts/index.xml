@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kennedy Lucas</title>
-    <link>https://klucass.github.io/posts/</link>
+    <link>https://klucas.dev/posts/</link>
     <description>Recent content in Posts on Kennedy Lucas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Nov 2021 20:20:37 -0300</lastBuildDate>
     
-	<atom:link href="https://klucass.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klucas.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>Djanblog Vem Ai</title>
-      <link>https://klucass.github.io/djanblog-vem-ai/</link>
+      <link>https://klucas.dev/djanblog-vem-ai/</link>
       <pubDate>Tue, 02 Nov 2021 20:20:37 -0300</pubDate>
       
-      <guid>https://klucass.github.io/djanblog-vem-ai/</guid>
+      <guid>https://klucas.dev/djanblog-vem-ai/</guid>
       <description>&lt;p&gt;Estou fazendo o &lt;a href=&#34;https://github.com/klucass/djanblog&#34;&gt;Djanblog&lt;/a&gt;, um backend baseado em Django para gerenciar um blog simples. Sua ideia é prover a administração de postagens e criação de endpoints para consulta dos conteúdos.&lt;/p&gt;
 &lt;p&gt;Minha intenção é usá-lo como camada de comunicação com a persistência.&lt;/p&gt;
 </description>
@@ -27,10 +27,10 @@
     
     <item>
       <title>Blog Estatico</title>
-      <link>https://klucass.github.io/blog-estatico/</link>
+      <link>https://klucas.dev/blog-estatico/</link>
       <pubDate>Sun, 10 Oct 2021 20:13:59 -0300</pubDate>
       
-      <guid>https://klucass.github.io/blog-estatico/</guid>
+      <guid>https://klucas.dev/blog-estatico/</guid>
       <description>&lt;p&gt;Por curiosidade decidi testar o Netlify. Ele tem uma proposta de otimizar o tempo de carregamento dos apps web basicamente servindo arquivos estáticos (gerados previamente no servidor), através de sua rede de CDN.&lt;/p&gt;
 &lt;p&gt;Porém, o que mais gostei foi sua esteira de deploy simplificada integrada com o github.&lt;/p&gt;
 &lt;p&gt;Então, se você olhar o &lt;a href=&#34;https://github.com/klucass/blog&#34;&gt; repositório&lt;/a&gt; deste blog, verá todos os arquivos.&lt;/p&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>Lista De Leitura 2021</title>
-      <link>https://klucass.github.io/lista-de-leitura-2021/</link>
+      <link>https://klucas.dev/lista-de-leitura-2021/</link>
       <pubDate>Sun, 21 Feb 2021 19:43:21 -0300</pubDate>
       
-      <guid>https://klucass.github.io/lista-de-leitura-2021/</guid>
+      <guid>https://klucas.dev/lista-de-leitura-2021/</guid>
       <description>&lt;p&gt;Obrigado por ler meu primeiro post.&lt;/p&gt;
 &lt;p&gt;Esta é minha lista de leitura para este ano.&lt;/p&gt;
 &lt;ul&gt;
