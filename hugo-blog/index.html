@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="shortcut icon" href="https://klucas.dev/favicon.ico">
+    
+    <link rel="stylesheet" href="/css/style.min.css">
+
+    <title>Hugo Blog</title>
+</head>
+<body><header id="banner">
+    <h2><a href="https://klucas.dev">Kennedy Lucas</a></h2>
+    <nav>
+        <ul>
+            <li>
+                <a href="/" title="posts">posts</a>
+            </li><li>
+                <a href="/about/" title="about">about</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main id="content">
+<article>
+    <header id="post-header">
+        <h1>Hugo Blog</h1>
+            <div>
+                <time>December 22, 2021</time>
+                </div>
+    </header><p>Não teve jeito, me rendi ao <a href="https://gohugo.io/">Hugo</a>. Como já estava hospedando meu blog estático no github, tudo de forma manual e artesanal, me peguei pesquisando formas de automatizar isso e eventualmente testar algumas ferramentas que já faziam esse trabalho há algum tempo, como é o caso do Jekyll (talvez o mais famoso) e outros.</p>
+<p>Resolvi então deixar o trabalho para quem já faz isso muito bem, inclusive com o tema do <a href="https://themes.gohugo.io/themes/etch/">Joswiak</a> que é um tema (template/skin/css/etc) que eu sempre quis fazer, se tivesse esse talento.</p>
+<p>Estou então testando essa nova arquitetura: o Hugo gera localmente os arquivos públicos a serem hospedados no <a href="https://github.com/klucass/klucass.github.io">github</a>, e para distribuir na sua rede CDN e de quebra, conectar com meu dominio pessoal, estou usando a Digital Ocean, que tem um <a href="https://docs.digitalocean.com/products/app-platform/how-to/manage-static-sites/">app</a> gratuito para sites estáticos.</p>
+<p>Os posts são escritos na minha máquina local toda vez que rodo <code>hugo new posts/nome-do-post.md</code>. Abro o arquivo gerado no VS Code mesmo, gero os arquivos novos com o comando&hellip; <code>hugo</code> (isso mesmo), e então posso comitar e subir os assets estáticos no github. A Digital Ocean faz sua mágica para deployar os arquivos do repositório e em alguns segundos o site está atualizado e servido via CDN global.
+Se eu conseguir atualizar o site algumas vezes no ano que vem, conto por aqui como foi a experiência.</p>
+</article>
+
+        </main><footer id="footer">
+    
+</footer>
+</body>
+</html>
